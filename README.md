@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sai Srungavarapu👋</h1>
 <h3 align="center">A passionate Full Stack Web Application Developer</h3>
 
-- 👨‍💻 All of my projects are available at [saikrish.dev](saikrish.dev)
+- 👨‍💻 All of my projects are available at [saikrish.dev](https://saikrish.dev/)
 
 - 📫 How to reach me **saisrungavarapu.work@gmail.com**
 
